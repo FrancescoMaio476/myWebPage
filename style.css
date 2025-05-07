@@ -1,0 +1,60 @@
+<!-- 
+  Project Name:Lab8
+  Name(s):Francesco Maio
+  
+-->
+
+<!DOCTYPE css>
+
+<css>
+
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title> style.css</title>
+    <link href="MaioF_Lab8.html" rel="stylesheet" type="text/html" />
+    <link href="Contact info" rel="stylesheet" type="text/html" />
+ </head>
+ 
+ <body>
+ 
+ </body>
+
+</css>
+
+html {
+  height: 100%;
+  width: 100%;
+	margin: 1em;
+}
+
+body {
+  background-color: #537D5D;
+	border:solid;
+}
+
+h1 {
+  color: #73946B; 
+	font-size: 48px; 
+	font-weight: bold; 
+	text-align: center;
+}
+
+h2 {
+	color: #9EBC8A; 
+	font-size: 36px; 
+	font-weight: normal; 
+	text-align: start;
+}
+
+h3 {
+	color: #D2D0A0; 
+	font-size: 24px; 
+	font-weight: normal; 
+	text-align: start;
+}
+
+p{
+	color: purple;
+	font-weight: normal;
+}
